@@ -17,7 +17,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 |-----------|--------------|----------|
 | Essay | [Open Doc](https://docs.google.com/document/d/1ksDyrqSFE8xmVw11VJvwIYuPNMMFNr-uye68q09zl9o/edit?tab=t.0#heading=h.885aju1yttrj) | [Download PDF](./Assignment/Assignment1_673380274-7.pdf) |
 | Assignment 2 (Topology) | [Open Doc](https://docs.google.com/document/d/1ZH5xawUpz1EkB-z9bbejrTmIQEnSLJqXCd6k-ro78oE/edit?tab=t.0) | [Download PDF](./Assignment/Assignment2.pdf) |
-| Assignment 3 (Not Simple) | [View File](https://drive.google.com/file/d/1HEjROHbK4-SLY4fIsH2XdlOYPAJvJvuL/view) | [Download PDF](./Assignment/Assignment3_673380274-7.pdf) |
+| Assignment 3 (Not Simple) | [View File](https://drive.google.com/file/d/1HEjROHbK4-SLY4fIsH2XdlOYPAJvJvuL/view) |
 | Assignment 4 (TCP-UDP) | [Open Doc](https://docs.google.com/document/d/1KSmagaT_uslgJp5S1DJWJv8Kc9ZIIWN2/edit) | [Download PDF](./Assignment/Assignment4.pdf) |
 | Assignment 5 (LAB 5) | [Open Doc](https://docs.google.com/document/d/1EL2O5OzGDCcL9uff08EZI_qFdZ0oGWYo/edit) | [Download PDF](./Assignment/lab5,docx.pdf) |
 
