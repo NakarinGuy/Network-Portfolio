@@ -33,7 +33,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 | Lab 2 | [Lab 2](./Lab/lab2.pdf) | [Download PDF](./Lab/lab2.pdf) |
 | Lab 3 | [Lab 3](./Lab/lab3.pdf) | [Download PDF](./Lab/lab3.pdf) |
 | Lab 4 | [Lab 4](./Lab/lab4.pdf) | [Download PDF](./Lab/lab4.pdf) |
-| Lab 5 | [Lab 4](./Lab/lab5.pdf) | [Download PDF](./Lab/lab5.pdf) |
+| Lab 5 | [Lab ถ](./Lab/lab5.pdf) | [Download PDF](./Lab/lab5.pdf) |
 ---
 
 ## 🏆 Certificates
