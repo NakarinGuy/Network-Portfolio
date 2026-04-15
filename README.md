@@ -1,6 +1,4 @@
 # Network-Portfolio
-My portfolio for Computer Networks course (assignments, labs, projects)
-# Network-Portfolio
 
 **Name:** Nakarin Na ranong  
 **Student ID:** 673380274-7 Section 02
