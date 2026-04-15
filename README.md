@@ -19,7 +19,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 | Assignment 2 (Topology) | [Open Doc](https://docs.google.com/document/d/1ZH5xawUpz1EkB-z9bbejrTmIQEnSLJqXCd6k-ro78oE/edit?tab=t.0) | [Download PDF](./Assignment/Assignment2.pdf) |
 | Assignment 3 (Not Simple) | [View File](https://drive.google.com/file/d/1HEjROHbK4-SLY4fIsH2XdlOYPAJvJvuL/view) |
 | Assignment 4 (TCP-UDP) | [Open Doc](https://docs.google.com/document/d/1KSmagaT_uslgJp5S1DJWJv8Kc9ZIIWN2/edit) | [Download PDF](./Assignment/Assignment4.pdf) |
-| Assignment 5 (LAB 5) | [Open Doc](https://docs.google.com/document/d/1EL2O5OzGDCcL9uff08EZI_qFdZ0oGWYo/edit) | [Download PDF](./Assignment/Lab5,docx.pdf) |
+| Assignment 5 (LAB 5) | [Open Doc](https://docs.google.com/document/d/1EL2O5OzGDCcL9uff08EZI_qFdZ0oGWYo/edit) | [Download PDF](./Assignment/Lab5.docx.pdf) |
 
 ---
 
