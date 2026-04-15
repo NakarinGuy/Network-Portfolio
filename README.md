@@ -29,16 +29,16 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 | Lab | Document Link | PDF File |
 |-----|--------------|----------|
-| Lab 1 | [Lab 1](./Lab/lab1.pdf) | [Download PDF](./Lab/lab1.pdf) |
-| Lab 2 | [Lab 2](./Lab/lab2.pdf) | [Download PDF](./Lab/lab2.pdf) |
-| Lab 3 | [Lab 3](./Lab/lab3.pdf) | [Download PDF](./Lab/lab3.pdf) |
-| Lab 4 | [Lab 4](./Lab/lab4.pdf) | [Download PDF](./Lab/lab4.pdf) |
-| Lab 5 | [Lab ถ](./Lab/lab5.pdf) | [Download PDF](./Lab/lab5.pdf) |
+| Lab 1 | [Open Doc]() | [Download PDF](./Lab/lab_1_Network.pdf) |
+| Lab 2 | [Open Doc]()  | [Download PDF](./Lab/Lab2.pdf) |
+| Lab 3 | [Open Doc](https://docs.google.com/document/d/1jA_iFIHP4KY-toyaEddPGKTDxIYLtMWO/edit)  | [Download PDF](./Lab/lab3.pdf) |
+| Lab 4 | [Open Doc]()  | [Download PDF](./Lab/lab4.pdf) |
+| Sprint Alpha |[Open Doc]()  | [Download PDF](./Lab/Sprint_Alpha.pdf) |
 ---
 
 ## 🏆 Certificates
 
-![Certificate 1](./Image/certificate.png)
+![Certificate 1](./Image/Certificate.png)
 
 ##  Final Project ##
 
