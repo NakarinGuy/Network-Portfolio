@@ -37,6 +37,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 ## 🏆 Certificates
 
 ![Certificate 1](./Image/Certificate.png)
+![Certificate 2](./Image/Certificate.png)
 
 ##  Final Project ##
 
