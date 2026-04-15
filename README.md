@@ -30,7 +30,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 | Lab 1 | [Open Doc](https://docs.google.com/document/d/1ENCveKmL5EDfS65g7ZEHIten37Bjd1BcuXu0dpzZv3U/edit?tab=t.0) | [Download PDF](./Lab/Lab_1_Network.pdf) |
 | Lab 2 | [Open Doc](https://docs.google.com/document/d/1WfpNr2zPceoqhLpKo30elPUfTzp5nOL0K1PL8cATlqI/edit?tab=t.0#heading=h.tq7au3jeqgcd)  | [Download PDF](./Lab/Lab2.pdf) |
 | Lab 3 | [Open Doc](https://docs.google.com/document/d/1jA_iFIHP4KY-toyaEddPGKTDxIYLtMWO/edit)  | [Download PDF](./Lab/Lab3.docx.pdf) |
-| Lab 4 | [Open Doc](https://docs.google.com/document/d/1eVlNYlPcYw4YgoE-y1NJFsu3fHd3ikF5/edit?usp=sharing&ouid=111682408076155320236&rtpof=true&sd=true)  | [Download PDF](./Lab/lab4.pdf) |
+| Lab 4 | [Open Doc](https://docs.google.com/document/d/1eVlNYlPcYw4YgoE-y1NJFsu3fHd3ikF5/edit?usp=sharing&ouid=111682408076155320236&rtpof=true&sd=true)  | [Download PDF](./Lab/LAB4.docx.pdf) |
 | Sprint Alpha |[View File](https://drive.google.com/drive/folders/1N_SpgqwDkwTnqlahET6-MTD4kKKIQKg1)  | [Download PDF](./Lab/Sprint_Alpha.pdf) |
 ---
 
